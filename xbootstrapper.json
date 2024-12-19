@@ -1,4 +1,4 @@
 {
-  "latest": "v4",
-  "changelog": "[+] The bootstrapper will automatically update(see API endpoint)\n[+] Fixed .NET 8.0 Runtime check failing due to dotnet CLI not being installed on the machine\n[+] Changed colors"
+  "latest": "v5",
+  "changelog": "[+] Bootstrapper auto-update fix\n[+] Better Xeno version check\n[+] Roblox version check"
 }
