@@ -1,4 +1,4 @@
 {
-  "latest": "v5",
-  "changelog": "[+] Bootstrapper auto-update fix\n[+] Better Xeno version check\n[+] Roblox version check"
+  "latest": "v6",
+  "changelog": "[+] Tabs and settings save.\n[+] Now automatically finding version using folder names."
 }
